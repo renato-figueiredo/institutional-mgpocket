@@ -1,11 +1,7 @@
-Aqui está o template para o seu **README** com espaços para as imagens e as tecnologias destacadas usando os ícones do **FontAwesome**:
-
----
-
 # MG Pocket - Site Institucional
 
 <p align="center">
-  <img src="URL_DA_LOGO_AQUI" alt="Logo da MG Pocket" width="200px">
+  <img src="./assets/img/self/Logo_branca.png" alt="Logo da MG Pocket" width="200px">
 </p>
 
 <p align="center">
@@ -57,7 +53,7 @@ MG_Pocket/
 ## Capturas de Tela
 
 ### Página Inicial
-![Página Inicial](URL_PARA_IMAGEM_DA_PAGINA_INICIAL)
+![Página Inicial](./assets/img/self/project-mgpocket.webp)
 
 ### Sessão de Serviços
 ![Serviços](URL_PARA_IMAGEM_DA_SESSAO_SERVICOS)
@@ -74,7 +70,3 @@ MG_Pocket/
 3. Faça commit das suas mudanças (`git commit -m 'Adiciona nova feature'`).
 4. Envie para a branch (`git push origin feature/nova-feature`).
 5. Abra um Pull Request.
-
----
-
-Esse layout organiza bem as informações e deixa um espaço claro para as imagens e ícones de tecnologias. Substitua os placeholders de imagem pelos URLs adequados.
