@@ -55,11 +55,8 @@ MG_Pocket/
 ### Página Inicial
 ![Página Inicial](./assets/img/self/project-mgpocket.webp)
 
-### Sessão de Serviços
-![Serviços](URL_PARA_IMAGEM_DA_SESSAO_SERVICOS)
-
-### Contato
-![Contato](URL_PARA_IMAGEM_DA_SESSAO_CONTATO)
+### Sessão de Serviços e Contato
+![Serviços](./assets/img/self/project-mgpocket-services.webp)
 
 ---
 
