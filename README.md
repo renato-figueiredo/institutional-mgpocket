@@ -4,7 +4,10 @@
   <img src="./assets/img/self/Logo_branca.png" alt="Logo da MG Pocket" width="200px">
 </p>
 
+<p align="center"> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Acessar%20o%20Site-MG%20Pocket-blue?style=for-the-badge"> </a> </p>
+
 <p align="center">
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">
   </a>
